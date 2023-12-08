@@ -1,20 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 
 html, body {
   height: 100%;
   width: 100%;
-  color: #836953;
-  background-color: #efdecd;
+  color: #33E0FF;
+  background-color: #00446A;
 }
 
 h1{
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Silkscreen', sans-serif;
 }
 
 h2{
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Silkscreen', sans-serif;
 }
 
 p{
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Silkscreen', sans-serif;
 }
